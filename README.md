@@ -13,7 +13,7 @@ npm test
 
 ## Deployment
 cd build
-now --name firstReactProject
+now --name first-react-project
 
 ## Working site
 https://firstreactproject-xoomfmznss.now.sh/
